@@ -2,3 +2,5 @@ Untuk memahami cabang git diperlukan
 1.proses commit
 2.proses branching
 3.proses merge
+4.proses pull
+5.proses push
